@@ -10,6 +10,6 @@
 
 
 
-<!-- Si quieren saber mas sobre mi, no duden en contactarme o seguirme en mis redes! -->
+// Si quieren saber mas sobre mi, no duden en contactarme o seguirme en mis redes!
 
 🌎 linkedin: linkedin.com/in/rodrigo-javier-paz
