@@ -4,9 +4,9 @@
 
 //👀 Me encantan los deportes ⚽, 🏀, 🏐, 🏉 y la musica!🎸
 
-/* Certifique como Scrum Master y Product Owner, me involucre bastante con las metodologias agiles y el liderazgo agil. Tambien poseo  una diplomatura en Project Maneger 👨‍🎓. */
+/* Soy Scrum Master, Product Owner certificado y Proyect Manager 👨‍🎓. */
 
-// 🏆 Busco continuamente mejorar y aprender, acepto y me gustan los desafios. Me siento comodo trabajando en equipo, pero no tengo inconvenientes en desempeñarme individualmente. Mis estudios, capacitaciones y experiencias me brindaron la tenacidad para liderar y guiar diferentes equipos de trabajo, bajo situaciones de presion y condiciones adversas.👌
+// 🏆 Busco continuamente mejorar y aprender, acepto y me gustan los desafios. Me siento comodo trabajando en equipo, pero no tengo inconvenientes en desempeñarme individualmente. Mis estudios, capacitaciones y experiencias me brindaron la tenacidad para liderar y guiar diferentes equipos de trabajo bajo situaciones de presion y condiciones adversas.👌
 
 
 
